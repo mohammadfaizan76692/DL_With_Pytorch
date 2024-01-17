@@ -14,9 +14,36 @@ Squeezed
 
 unsqueezed
 
-Tensors to numpy array
+Tensors to NumPy array
 
-numpy to tensor array 
+NumPy to Tensor array 
+___________________________________________________________________________________________________________________________________________________________________
+## Second Demo Contains Pytorch Workflow for any Model
+
+Here I simply implement Linear Regression ( y=w*x +b) where w is weights and b is the bias term, 
+
+I create a Manual dataset by Defining the weights and bias.
+
+Use this manual data set to apply regression 
+
+Visualize how Test loss and Training loss decrease  with epochs, And how the predictions change with epochs.
+
+### Pytorch Workflow for any Model 
+
+1. Data Preparation
+2. Building Model
+3. Fitting the Model to Data (Training)
+4. Making predictions and Evaluating the Model
+5. Improve With Experiments
+6. Saving And Loading a Model
+7. Putting it all Together
+
+### Visualization of how predictions of Test Sets change with epochs.
+
+
+
+
+
 
 
 
