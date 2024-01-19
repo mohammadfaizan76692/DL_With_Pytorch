@@ -38,7 +38,7 @@ Visualize how Test loss and Training loss decrease  with epochs, And how the pre
 6. Saving And Loading a Model
 7. Putting it all Together
 
-### Visualization of how predictions of Test Sets change with epochs.
+### Visualization of how predictions of Test Set change with epochs.
 ![baby2](https://github.com/mohammadfaizan76692/DL_With_Pytorch/assets/77170022/b2e37380-72c9-4b89-9426-0d1be63c36e7)
 
 
