@@ -4,7 +4,7 @@ Hey, guys this repository contains Models of Deep learning that are implemented 
 ## First Demo contains things like
 Tensor
 
-Dimensions in Torch  
+Dimensions in Torch   
 
 Cuda
 
