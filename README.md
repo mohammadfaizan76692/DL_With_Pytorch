@@ -1,5 +1,6 @@
-<img width="1665" height="540" alt="Screenshot from 2025-11-01 09-51-33" src="https://github.com/user-attachments/assets/1d8158d2-1857-461e-8c66-b937ad6b9739" />
-# DL_With_Pytorch ![pytoch_image](https://github.com/mohammadfaizan76692/DL_With_Pytorch/assets/77170022/392146a7-9233-4685-8f4d-d1ba7c012d14)
+<img width="1665" height="540" alt="Screenshot from 2025-11-01 09-51-33" src="https://github.com/user-attachments/assets/1d8158d2-1857-461e-8c66-b937ad6b9739" />  
+
+DL_With_Pytorch ![pytoch_image](https://github.com/mohammadfaizan76692/DL_With_Pytorch/assets/77170022/392146a7-9233-4685-8f4d-d1ba7c012d14)
 
 Hey, guys this repository contains Models of Deep learning that are implemented in Pytorch
 ## First Demo contains things like
